@@ -1,0 +1,18 @@
+﻿  FFDMQTT.c
+D:\PROJECT\FFDMQTT\FFDMQTT\FFDMQTT.c(494,56): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\PROJECT\FFDMQTT\FFDMQTT\FFDMQTT.c(503,56): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\PROJECT\FFDMQTT\FFDMQTT\FFDMQTT.c(512,56): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\PROJECT\FFDMQTT\FFDMQTT\FFDMQTT.c(520,52): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\PROJECT\FFDMQTT\FFDMQTT\FFDMQTT.c(547,56): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\PROJECT\FFDMQTT\FFDMQTT\FFDMQTT.c(556,56): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\PROJECT\FFDMQTT\FFDMQTT\FFDMQTT.c(565,56): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\PROJECT\FFDMQTT\FFDMQTT\FFDMQTT.c(583,52): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\PROJECT\FFDMQTT\FFDMQTT\FFDMQTT.c(594,56): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\PROJECT\FFDMQTT\FFDMQTT\FFDMQTT.c(601,52): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\PROJECT\FFDMQTT\FFDMQTT\FFDMQTT.c(610,52): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\PROJECT\FFDMQTT\FFDMQTT\FFDMQTT.c(622,56): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\PROJECT\FFDMQTT\FFDMQTT\FFDMQTT.c(648,56): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\PROJECT\FFDMQTT\FFDMQTT\FFDMQTT.c(678,56): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\PROJECT\FFDMQTT\FFDMQTT\FFDMQTT.c(687,56): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\PROJECT\FFDMQTT\FFDMQTT\FFDMQTT.c(697,55): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  FFDMQTT.vcxproj -> D:\PROJECT\FFDMQTT\FFDMQTT\x64\Debug\FFDMQTT.exe
