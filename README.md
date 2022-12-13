@@ -1,0 +1,5 @@
+# FFD-MQTT
+MOSQUITTO기반 FFD용 MQTT 구현
+
+# 생성 사항
+FFD-MQTT/FFDMQTT.c
